@@ -1,2 +1,2 @@
-# QT-Tutorial-notes
-> Refer to 📖[Wiki](https://github.com/SonicStrain/QT-Tutorial-notes/wiki/Notes)
+# Notes
+> Refer to 📖[Wiki](https://github.com/SonicStrain/QT-Tutorial-notes/wiki)
