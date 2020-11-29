@@ -1,2 +1,2 @@
 # QT-Tutorial-notes
-> Refer to wiki
+> Refer to 📖Wiki
